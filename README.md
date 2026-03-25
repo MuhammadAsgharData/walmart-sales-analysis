@@ -53,7 +53,7 @@ View the interactive Tableau dashboard:
 ## How to Explore This Project
 
 1. Browse the `/sql` folder to view all queries
-2. View the live Tableau dashboard: [click here](YOUR_TABLEAU_PUBLIC_LINK)
+2. View the live Tableau dashboard: [click here](https://public.tableau.com/app/profile/muhammad.asghar.khan/viz/WalmartSalesPerformanceDashboard_17744672928840/WalmartSalesPerformanceDashboard)
 3. Key business insights start in `04_portfolio_analysis.sql`
 
 ## Skills Demonstrated
@@ -72,4 +72,4 @@ View the interactive Tableau dashboard:
 
 **Muhammad Asghar Khan**
 Wilfrid Laurier University
-[LinkedIn](https://linkedin.com/in/muhammad-asghar-khan) | [GitHub](https://github.com/MuhammadAsgharData)
+[LinkedIn](https://www.linkedin.com/in/muhammad-asghar-khan-b71281274/) | [GitHub](https://github.com/MuhammadAsgharData)
